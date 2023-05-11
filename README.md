@@ -41,13 +41,14 @@ Membuat :
 - Membuat Template 
 - Membuat Form Tambah Admin
 - Mmembuat Migrasi Database
+- 
 
 Akses Login Aplikasinya 
 Admin:
-Username : admin
-password : katasandi
+- Username : admin
+- password : katasandi
 
 Peminjam:
-Akses Login Untuk Peminjam dapat di lakukan dengan melakukan registrasi dulu baru dapat mengakses login
+- Akses Login Untuk Peminjam dapat di lakukan dengan melakukan registrasi dulu baru dapat mengakses login
 
 
